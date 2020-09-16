@@ -1,0 +1,6 @@
+framework module Pods_codePathAssignment___codePathAssignment__UITests {
+  umbrella header "Pods-codePathAssignment_!-codePathAssignment_!UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

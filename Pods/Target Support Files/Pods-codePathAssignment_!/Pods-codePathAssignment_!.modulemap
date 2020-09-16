@@ -1,0 +1,6 @@
+framework module Pods_codePathAssignment__ {
+  umbrella header "Pods-codePathAssignment_!-umbrella.h"
+
+  export *
+  module * { export * }
+}
